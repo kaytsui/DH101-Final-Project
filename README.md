@@ -4,4 +4,4 @@
 https://github.com/datadesk/california-coronavirus-data#latimes-county-totalscsv
 
 # link to data critique
-https://docs.google.com/document/d/1_53IOKSzjYbD1JbguytBduQeHpO4fVYREKu4i0G1sLI/edit?usp=sharing
+https://docs.google.com/document/d/1MMuLuGb0XbIZyal4CL9MJQ05PGNhhV76u2ZVle86IF0/edit?ts=5f343d97
