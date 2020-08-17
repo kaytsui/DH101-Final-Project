@@ -3,8 +3,8 @@
 ## link to LA coronavirus data
 https://github.com/datadesk/california-coronavirus-data#latimes-county-totalscsv
 
-## link to data critique
-https://docs.google.com/document/d/1MMuLuGb0XbIZyal4CL9MJQ05PGNhhV76u2ZVle86IF0/edit?ts=5f343d97
+## link to google drive
+https://drive.google.com/drive/folders/17tKQgn2CFab7lK_eE-woY6pgmE--Nqe4
 
 ## link to explanation of columns in the dataset
 https://data.lacity.org/A-Safe-City/Arrest-Data-from-2020-to-Present/amvf-fr72
