@@ -1,0 +1,29 @@
+---
+title: "LA Arrests"
+author: "Catherine Jennifer"
+date: "8/19/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Cleaning
+
+```{r}
+raw_data <- read.csv("Arrest_Data_from_2020_to_Present.csv")
+library(tidyverse)
+```
+
+```{r}
+data <- select(raw_data, -c(Neighborhood.Councils..Certified., 
+                             Council.Districts,
+                             LA.Specific.Plans,
+                             Precinct.Boundaries,
+                             Time,
+                             Census.Tracts,
+                             Booking.Time))
+head(data)
+```
+
