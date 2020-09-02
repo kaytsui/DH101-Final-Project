@@ -3,6 +3,9 @@
 ## link to LA coronavirus data
 https://github.com/datadesk/california-coronavirus-data#latimes-county-totalscsv
 
+## link to 2020-Present LA Arrest Data
+https://data.lacity.org/A-Safe-City/Arrest-Data-from-2020-to-Present/amvf-fr72/data
+
 ## link to 2010-2019 LA Arrest Data
 https://data.lacity.org/A-Safe-City/Arrest-Data-from-2010-to-2019/yru6-6re4
 
